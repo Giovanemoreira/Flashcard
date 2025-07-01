@@ -19,23 +19,29 @@ criaCartao(
 criaCartao(
     'Biotecnologia',
     'O que é biotecnologia roxa?',
-    A biotecnologia roxa aborda assuntos voltado a ética de todas as biotecnologia
+   ' A biotecnologia roxa aborda assuntos voltado a ética de todas as biotecnologia'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Biotecnologia',
+    'O que é biotecnologia marrom?',
+    'A biotecnologia marrom, ela faz conserva anbientes aridos, semiáridos e desertos'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Biotecnologia',
+    'O que é biotecnologia azul?',
+    'A biotecnologia azul aborda assuntos da vida marinha'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Biotecnologia',
+    'O que é biotecnologia verde?',
+    'A biotecnologia verde aborda assuntos relacionados a alimentos transgênicos'
 )
+
+
+
+
+
+
